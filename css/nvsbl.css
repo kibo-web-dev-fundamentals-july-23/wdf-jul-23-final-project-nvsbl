@@ -241,6 +241,7 @@ nav a {
     border-radius: 25px;
     border: 2px solid;
     background-color: #D9D9D9;
+    object-fit: cover; 
 }
 
 
