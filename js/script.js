@@ -14,11 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // 2. Change an element's color
     const section1 = document.querySelector(".Section1");
     section1.addEventListener("mouseover", function () {
-<<<<<<< HEAD
       section1.style.color = "purple";
-=======
-      section1.style.color = "purple"; /*red*/
->>>>>>> 46a7e8e8a54a8a09e8f8868b15763d4e6eabbe98
     });
     section1.addEventListener("mouseout", function () {
       section1.style.color = "black";
